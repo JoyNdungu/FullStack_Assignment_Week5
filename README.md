@@ -4,7 +4,7 @@ This project is a real-time chat application built using Node.js, Express, React
 
 The goal of this assignment is to showcase real-time communication capabilities using Socket.io while providing a smooth user experience with React on the frontend.
 
-Features
+#Features
 
 User login with a simple username
 
@@ -37,27 +37,29 @@ Getting Started
 Clone the repository
 
 Install dependencies for the server:
-
+```bash
 cd server
 npm install
-
+```
 
 Install dependencies for the client:
-
+```bash
 cd client
 npm install
-
+```
 
 Start the development servers:
 
 # Server
+```bash
 cd server
 npm run start
-
+```
 # Client
+```bash
 cd client
 npm run dev
-
+```
 
 Open the client URL in the browser (default: http://localhost:5173) and start chatting!
 
